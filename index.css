@@ -1,0 +1,239 @@
+.main{
+    margin-top: 65px;
+    text-align: center;
+}
+
+
+
+/*.notmain1{
+    width: 400px;
+    display: block;
+}
+
+.notmain2{
+    width: 300px;
+    display: block;
+   
+}*/
+
+/*body{
+    margin: 0px;
+}
+
+
+
+
+.red{
+    background: #c71226;
+    
+height: 100px;
+
+
+if we added margin-bottom:10px; for example
+nothing happened and that is because margin top and margin bottom will in many situations collapse into
+each other so that is as long as this margin is smaller than this
+
+
+}
+
+
+.blue{
+    background: #0d1b88;
+    height: 100px;
+margin-top: 100px;
+margin-bottom: 100px;
+
+}
+
+.green{
+    background: #397327;
+    height: 100px;
+}*/
+
+
+
+.notmain1{
+
+margin-bottom: 0px;
+width: 400px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.btn-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+/*.notmain2{
+    width: 300px;
+    display: block;
+margin-right: auto;
+margin-left: auto;
+
+
+}*/
+
+/*.myain{
+    background: #4a5667;
+    padding: 20px;
+    color: #222222;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid #222222;
+    border-radius: 20px;
+}*/
+
+
+
+.follow-button{
+    border: 1px solid #cfd9de;
+color: #0f1419;
+font-weight: bold;
+border-radius: 18px;
+
+background-color: white;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 20px;
+padding-left: 20px;
+
+}
+
+.notmain2{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    height: 24px; /* or line-height: ;        more recommended */
+    width: 400px;
+
+}
+
+
+
+
+
+
+
+
+
+.btn{
+   /* display:block;
+    margin-right: auto;
+    margin-left: auto; */
+    margin-top: 20px;
+    border: 1px solid #dfe1e5;
+    border-radius: 5px;
+    padding: 8px;
+    background: #dfe1e5;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+
+
+
+
+} 
+
+
+
+.businesscard{
+    width: 200px;
+   
+}
+
+
+.myportfollio{
+    
+    padding: 20px;
+   display: flex;
+   justify-content: space-around;
+   width: 600px;
+  /* margin-left: auto;
+   margin-right: auto;*/
+
+   margin: 40px auto;
+   border-bottom: 3px solid #d8cefe;
+   color: #2b2839;
+   background-color: #ddebf8;
+}
+
+/*
+.italic{
+
+    font-style: italic;
+}
+*/
+
+/*
+.both{
+    border: 2px dotted blue;
+    padding: 10px;
+}
+*/
+
+
+
+
+.blue-border{
+   /* border: 1px dotted blue;*/
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+/*.-center{
+    text-align: center;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.-flag{
+margin: 40px 0px 0px 650px;
+
+
+margin: 40px auto;
+border-radius: 100px;
+width: 200px;
+height: 200px;
+background: #BC002D;
+
+}*/
